@@ -1,0 +1,16 @@
+PODS:
+  - KWDemoKit (0.1.0)
+
+DEPENDENCIES:
+  - KWDemoKit (from `../`)
+
+EXTERNAL SOURCES:
+  KWDemoKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KWDemoKit: 282f24158ffd16dabd9ef21fb06f36e468da6c63
+
+PODFILE CHECKSUM: ed863d9275c32fd4afb9c31c0329fb9bf83af421
+
+COCOAPODS: 1.10.0
